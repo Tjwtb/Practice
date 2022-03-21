@@ -1,0 +1,21 @@
+{
+    "Name": "Johan",
+    "LastName": "Garcia",
+    "Languages": ["JavaScript", "Python", "C#"],
+    "Age": "22",
+    "Hobbies":{
+        "Hobby1": "Programming",
+        "Hobby2": "Reading",
+        "Hobby3": "Watching Movies"
+    },
+    "Experience":[
+        {
+            "Company": "Wiegand",
+            "Position": "factory worker"
+        },
+        {
+            "Company": "LeadOne",
+            "Position": "Internal programmer"
+        }	
+    ]
+}
